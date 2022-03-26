@@ -1,4 +1,4 @@
-# GitHub Issues Clone
+# Twilio QR Code
 
 Node Express APP to send QR Code via SMS using Twilio's service
 
