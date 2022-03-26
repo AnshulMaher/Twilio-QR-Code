@@ -36,9 +36,9 @@ Also set API URL in the `constants/production.js` in apiUrl field without preced
 
 ## Optional Configurations
 
-Public static/assets folder name can be changed by changing the following configurations:
+Public static/assets folder name can be changed by changing the following configurations in environment `constants/<env>.js`:
 
 ```
-publicFolder
-qrCodesFolder
+publicFolder: "<folder_name>"
+qrCodesFolder: "<folder_name>"
 ```
